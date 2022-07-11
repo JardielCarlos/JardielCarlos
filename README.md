@@ -11,7 +11,6 @@
   <img align="center" alt="Jardiel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jardiel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jardiel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jardiel-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="right" alt="Jardiel-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/88459973?s=400&u=5aa8c0756a784b1b258204d2a88c740b8a0eae91&v=4?width=676&height=676">
 </div>
 
