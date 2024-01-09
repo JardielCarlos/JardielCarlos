@@ -5,7 +5,7 @@
 <p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br>Como um Desenvolvedor Web júnior, tenho experiência trabalhando com várias tecnologias, incluindo <strong>Spring Boot</strong> e <strong>Flask</strong> para desenvolvimento de Backend e <strong>ReactJs</strong> para Frontend. Estou constantemente buscando expandir meu conhecimento e habilidades em desenvolvimento web. Além disso, estou sempre aberto a novos desafios e ansioso para contribuir com minha experiência e aprendizado em projetos diversos.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JardielCarlos&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats-sepia-seven.vercel.app?user=JardielCarlos&theme=radical" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=JardielCarlos&show_icons=true&theme=radical&layout=compact" />
  </div>
  
