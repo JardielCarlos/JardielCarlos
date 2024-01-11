@@ -2,6 +2,9 @@
 
 <div align="center">
  <br><br/>
+ <img align="center" style="margin-bottom:100px" width=100% src="https://i.ibb.co/bmV6VLT/1662321325813.jpg" />
+&nbsp;&nbsp;&nbsp;
+ <br><br/>
  <p style="color: #FE428EFF; font-size: 20px; font-weight: 400; font-family: 'Fira Code', monospace;">Jardiel Carlos</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&random=false&width=570&lines=Desenvolvedor+Web+Junior+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Acredite+no+imposs%C3%ADvel%2C+codifique+o+incr%C3%ADvel+%F0%9F%9A%80"/>
