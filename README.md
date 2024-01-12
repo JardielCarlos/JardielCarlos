@@ -1,4 +1,9 @@
 <div align="center"">
+  <br><br/>
+ <img align="center" style="margin-bottom:100px" width=100% src="https://i.ibb.co/bmV6VLT/1662321325813.jpg" />
+&nbsp;&nbsp;&nbsp;
+ <p><p/>
+
  <img width=20% src="https://i.ibb.co/4NvfymR/imagem-2024-01-12-095837722.png"/>
 
 <p><p/>
@@ -32,7 +37,8 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![NodeJs](
+![NodeJs
+](
 https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
