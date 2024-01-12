@@ -1,9 +1,4 @@
 <div align="center"">
- <br><br/>
- <img align="center" style="margin-bottom:100px" width=100% src="https://i.ibb.co/bmV6VLT/1662321325813.jpg" />
-&nbsp;&nbsp;&nbsp;
- <p><p/>
-
  <img width=20% src="https://i.ibb.co/4NvfymR/imagem-2024-01-12-095837722.png"/>
 
 <p><p/>
